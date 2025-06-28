@@ -3,7 +3,7 @@
 
 *GUI operation of hashcat for cracking the password of encrypted RAR files.*
 
-## 仅供学习使用，若用于违法使用与作者无关
+## 仅供学习使用，若用于违法使用，后果与作者无关
 ![image](https://github.com/LinShancc/Encrypt-Archive-file-cracker/assets/129955394/a712b310-192d-4f65-82ed-5b8909dea9a3)
 
 ## 支持RAR、ZIP
